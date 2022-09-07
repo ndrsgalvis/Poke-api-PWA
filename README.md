@@ -7,7 +7,7 @@ Just and example of how use exios and vue router in vue composition api
 ## Project Setup
 
 ```sh
-npm install
+npm install0
 ```
 
 ### Compile and Hot-Reload for Development
@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compile and Minify for Productions
 
 ```sh
 npm run build
